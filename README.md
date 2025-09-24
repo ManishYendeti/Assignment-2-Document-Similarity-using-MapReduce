@@ -70,7 +70,7 @@ docker compose up -d
 
 #### 2. Build Project  
 ```bash
-cd "C:\ManishFall 2025\cloud computingssignment - 2"
+cd "C:\ManishFall 2025\cloud computingassignment - 2"
 mvn clean package
 ```
 
