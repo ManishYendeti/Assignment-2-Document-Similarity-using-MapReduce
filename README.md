@@ -16,10 +16,10 @@
 
 - **Steps Performed:**  
   - The mapper reads one line at a time.  
-  - Separates the **document identifier** (first word) from the **document body** (remaining words).  
+  - Separates the **document identifier**  from the **document body** .  
   - Cleans the body text by lowercasing and removing punctuation.  
   - Builds a **unique vocabulary set** for that document.  
-  - Emits pairs in the form `(DocumentID, Word)` so that word sets can be reconstructed later.  
+  - Emits pairs in the form `(DocumentID, Number)` so that number sets can be reconstructed later.  
 
 - **Output (Key, Value):**  
   - Key → Document ID  
