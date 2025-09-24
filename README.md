@@ -60,7 +60,7 @@
 
 **Move to the Assignment Directory:**  
 ```bash
-C:\ManishFall 2025\cloud computingssignment - 2
+C:\ManishFall 2025\cloud computingassignment - 2
 ```
 
 #### 1. Start Hadoop Environment  
@@ -114,7 +114,7 @@ exit
 
 #### From host machine:  
 ```bash
-docker cp resourcemanager:/opt/hadoop-3.2.1/share/hadoop/mapreduce/output1/ "C:\ManishFall 2025\cloud computingssignment - 2\output"
+docker cp resourcemanager:/opt/hadoop-3.2.1/share/hadoop/mapreduce/output1/ "C:\ManishFall 2025\cloud computingassignment - 2\output"
 ```
 
 ---
