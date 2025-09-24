@@ -42,7 +42,7 @@
 
 - **Output Example:**  
   ```
-  DocA, DocB Similarity: 0.40
+  Doc1, Doc2 Similarity: 0.33
   ```
 
 ---
@@ -122,7 +122,7 @@ docker cp resourcemanager:/opt/hadoop-3.2.1/share/hadoop/mapreduce/output1/ "C:\
 ## Challenges and Fixes  
 
 ### 1. Removing Duplicate Pairs  
-**Issue:** Both (DocA, DocB) and (DocB, DocA) were appearing.  
+**Issue:** Both (Doc1, Doc2) and (Doc2, Doc1) were appearing.  
 **Fix:** Sorted document IDs before pairing to ensure each pair is only output once.  
 
 ---
