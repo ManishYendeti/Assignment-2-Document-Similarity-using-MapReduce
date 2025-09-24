@@ -23,7 +23,7 @@
 
 - **Output (Key, Value):**  
   - Key → Document ID  
-  - Value → Token (word)  
+  - Value → Token (number)  
 
 ---
 
