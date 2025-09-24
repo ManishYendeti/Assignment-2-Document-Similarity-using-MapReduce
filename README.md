@@ -143,14 +143,14 @@ docker cp resourcemanager:/opt/hadoop-3.2.1/share/hadoop/mapreduce/output1/ "C:\
 
 #### Input Example:  
 ```bash
-DocA This document talks about cloud computing and big data
-DocB Big data analysis is part of cloud computing assignment
-DocC Hadoop and MapReduce are used for large scale data processing
+Doc1 Machine learning provides algorithms for data-driven decision making  
+Doc2 Deep learning is a branch of machine learning used for image and text processing  
+Doc3 Big data platforms support large-scale storage and analytics with distributed systems  
 ```
 
 #### Sample Output:  
 ```bash
-DocA, DocB Similarity: 0.40
-DocA, DocC Similarity: 0.25
-DocB, DocC Similarity: 0.30
+Doc1, Doc2 Similarity: 0.33  
+Doc1, Doc3 Similarity: 0.20  
+Doc2, Doc3 Similarity: 0.25  
 ```
