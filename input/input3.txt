@@ -1,3 +1,0 @@
-Doc1: A sample dataset used to test Jaccard similarity with Hadoop MapReduce.
-Doc2: An example dataset for checking how similar documents are using Hadoop MapReduce.
-Doc3: A different text dataset used to run large-scale tasks with MapReduce.
