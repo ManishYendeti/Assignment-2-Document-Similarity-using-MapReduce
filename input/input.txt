@@ -1,0 +1,3 @@
+Doc1 Machine learning provides algorithms for data-driven decision making  
+Doc2 Deep learning is a branch of machine learning used for image and text processing  
+Doc3 Big data platforms support large-scale storage and analytics with distributed systems  
