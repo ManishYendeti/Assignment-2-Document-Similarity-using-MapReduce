@@ -1,3 +1,0 @@
-Doc1: Hadoop MapReduce helps analyze large amounts of data easily
-Doc2: Using the Hadoop MapReduce system makes handling big data more effective
-Doc3: MapReduce makes it easier to work with large sets of data across multiple computers
